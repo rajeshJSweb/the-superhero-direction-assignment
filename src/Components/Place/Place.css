@@ -1,0 +1,33 @@
+.place{
+    padding-top: 7px;
+    background-color: lightsteelblue;
+    border-radius: 3px;
+    box-shadow: 1px 3px 12px lightslategrey;
+    margin:10px;
+    height: 400px;
+}
+.place img{
+    border-radius: 3px;
+    height: 150px;
+    width: 300px;
+}
+.detail{
+    line-height: 5px;
+}
+.placeTitle{
+    padding-top: 10px;
+    color: crimson;
+}
+.location{
+    color: grey;
+}
+.regular-button{
+    color: white;
+    font-size: 18px;
+    margin-top: 10px;
+    height: 30px;
+    width: 50%;
+    background-color: orangered;
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+}

@@ -1,0 +1,36 @@
+.navbar{
+    background-color: lightslategray;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.navbar a{
+    margin-right: 10px;
+    text-decoration: none;
+    color: white;
+    padding: 3px 15px;
+}
+.menu a:hover{
+    border-radius: 2px;
+    background-color: crimson;
+    margin-right: 10px;
+    text-decoration: none;
+    color: white;
+    padding: 3px 15px;
+}
+.make{
+    color: crimson;
+}
+.content{
+    padding-top: 20px;
+    height: 110px;
+    line-height: 15px;
+    background-color: rgb(125, 126, 120);
+}
+.content h1{
+    color:lightskyblue;
+    margin: 0px;
+}
+.content p{
+    color: rgb(192, 201, 211);
+}

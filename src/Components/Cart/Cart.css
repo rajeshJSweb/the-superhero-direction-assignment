@@ -1,0 +1,20 @@
+.cartContainer{
+    border-radius: 2px;
+    margin-top: 10px;
+    height: 250px;
+    background-color: lightsteelblue;
+}
+.amountCount{
+    margin-bottom: 20%;
+}
+.totalCost{
+    color: crimson;
+    line-height: 1px;
+}
+.count{
+    font-weight: bold;
+    color: crimson;
+}
+.tax{
+    color: grey;
+}
